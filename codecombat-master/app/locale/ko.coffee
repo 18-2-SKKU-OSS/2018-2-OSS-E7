@@ -32,7 +32,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    struggle: "productive struggle"
 #    kind_of_struggle: "the kind of struggle that results in learning that’s engaging and"
     motivating: "동기부여"
-#    not_tedious: "not tedious."
+    not_tedious: "지루하지 않습니다."
 #    gaming_is_good: "Studies suggest gaming is good for children’s brains. (it’s true!)"
 #    game_based: "When game-based learning systems are"
 #    compared: "compared"
