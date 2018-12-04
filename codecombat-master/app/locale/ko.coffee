@@ -42,7 +42,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    real_game: "A real game, played with real coding."
 #    great_game: "A great game is more than just badges and achievements - it’s about a player’s journey, well-designed puzzles, and the ability to tackle challenges with agency and confidence."
 #    agency: "CodeCombat is a game that gives players that agency and confidence with our robust typed code engine, which helps beginner and advanced students alike write proper, valid code."
-#    request_demo_title: "Get your students started today!"
+    request_demo_title: "오늘 학생들이 시작할 수 있도록 하세요!"
 #    request_demo_subtitle: "Request a demo and get your students started in less than an hour."
 #    get_started_title: "Set up your class today"
 #    get_started_subtitle: "Set up a class, add your students, and monitor their progress as they learn computer science."
