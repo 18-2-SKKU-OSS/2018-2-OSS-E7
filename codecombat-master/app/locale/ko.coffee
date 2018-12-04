@@ -47,7 +47,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    get_started_title: "Set up your class today"
 #    get_started_subtitle: "Set up a class, add your students, and monitor their progress as they learn computer science."
 #    request_demo: "Request a Demo"
-#    setup_a_class: "Set Up a Class"
+    setup_a_class: "수업 설정"
     have_an_account: "계정이 있으십니까?"
     logged_in_as: "당신은 다음 계정으로 로그인되어있습니다."
 #    computer_science: "Our self-paced courses cover basic syntax to advanced concepts"
