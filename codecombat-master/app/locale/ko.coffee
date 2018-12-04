@@ -49,7 +49,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    request_demo: "Request a Demo"
 #    setup_a_class: "Set Up a Class"
     have_an_account: "계정이 있으십니까?"
-#    logged_in_as: "You are currently logged in as"
+    logged_in_as: "당신은 다음 계정으로 로그인되어있습니다."
 #    computer_science: "Our self-paced courses cover basic syntax to advanced concepts"
     ffa: "모든 학생들에게 무료"
 #    coming_soon: "More coming soon!"
