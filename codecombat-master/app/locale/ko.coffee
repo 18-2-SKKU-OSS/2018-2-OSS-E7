@@ -44,7 +44,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    agency: "CodeCombat is a game that gives players that agency and confidence with our robust typed code engine, which helps beginner and advanced students alike write proper, valid code."
     request_demo_title: "오늘 학생들이 시작할 수 있도록 하세요!"
 #    request_demo_subtitle: "Request a demo and get your students started in less than an hour."
-#    get_started_title: "Set up your class today"
+    get_started_title: "오늘 수업을 준비해보세요"
 #    get_started_subtitle: "Set up a class, add your students, and monitor their progress as they learn computer science."
 #    request_demo: "Request a Demo"
     setup_a_class: "수업 설정"
