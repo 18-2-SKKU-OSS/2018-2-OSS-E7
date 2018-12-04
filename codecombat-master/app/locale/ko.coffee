@@ -46,7 +46,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    request_demo_subtitle: "Request a demo and get your students started in less than an hour."
     get_started_title: "오늘 수업을 준비해보세요"
     get_started_subtitle: "수업을 준비하고, 학생을 추가하고, 학생들의 컴퓨터 공학 실력 향상을 관찰해보세요."
-#    request_demo: "Request a Demo"
+    request_demo: "데모 요청하기"
     setup_a_class: "수업 준비하기"
     have_an_account: "계정이 있으십니까?"
     logged_in_as: "당신은 다음 계정으로 로그인되어있습니다."
