@@ -780,7 +780,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     subscriber: "구독자"
     cuddly_companions: "사랑스러운 친구들!" # Pet Announcement Modal
     kindling_name: "불의 정령"
-    kindling_description: "불의 정령들은 밤과 낮, 항상 따뜻하게 당신을 지키고 싶어합니다.
+    kindling_description: "불의 정령들은 밤과 낮, 항상 따뜻하게 당신을 지키고 싶어합니다."
     griffin_name: "아기 그리핀 "
     griffin_description: "사랑스러운 그리핀은 반은 독수리이고 반은 사자입니다.."
     raven_name: "레이븐"
@@ -800,7 +800,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     collect_pets: "영웅을 위한 애완 동물을 모으십시요!"
     each_pet: "애완 동물마다 독특한 도우미 능력이 있습니다!"
     upgrade_to_premium: "{{구독자}} 애완 동물을 준비하십시요."
-    play_second_kithmaze: " {{두 번째_kithmaze}}를 실행하여 Wolf Pup의 잠금을 해제하십시요!”
+    play_second_kithmaze: " {{두 번째_kithmaze}}를 실행하여 Wolf Pup의 잠금을 해제하십시요!"
     the_second_kithmaze: "두 번째 Kithmaze"
     keep_playing: "첫 번째 애완 동물을 계속 찾으세요!"
     coming_soon: "커밍 쑨"
