@@ -13,7 +13,9 @@ It's both a startup and a community project, completely open source under the MI
 There is a separate page for people to contribute to this project (https://codecombat.com/contribute). On this page, we can contribute to the project in 6 parts, and we have concentrated on the translation.
 
 Our project consists of 4 members. The members are as follows.
+
 Team Leader
+
 Name: Kim Yun-jae, student number: 2016314843, e-mail address: k12340k@naver.com
 
 Team members
