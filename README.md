@@ -20,7 +20,7 @@ Name: Kim Yun-jae, student number: 2016314843, e-mail address: k12340k@naver.com
 
 Team members
 
-Name: Jung Min, Student ID: 2018318227, Email address: yjh930919@gmail.com
+~Name: Jung Min, Student ID: 2018318227, Email address: yjh930919@gmail.com (Out of team)
 
 Name: Lee Sung-tae, student number: 2016312506, e-mail address: yuns0509@naver.com
 
