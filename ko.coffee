@@ -631,16 +631,15 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     webjavascript: "JavaScript"
 
 #  amazon_hoc:
-#    title: "Keep Learning with Amazon!"
-#    congrats: "Congratulations on conquering that challenging Hour of Code!"
-#    educate_1: "Now, keep learning about coding and cloud computing with AWS Educate, an exciting, free program from Amazon for both students and teachers. With AWS Educate, you can earn cool badges as you learn about the basics of the cloud and cutting-edge technologies such as gaming, virtual reality, and Alexa."
-#    educate_2: "Learn more and sign up here"
-#    future_eng_1: "You can also try to build your own school facts skill for Alexa"
-#    future_eng_2: "here"
-#    future_eng_3: "(device is not required). This Alexa activity is brought to you by the"
-#    future_eng_4: "Amazon Future Engineer"
-#    future_eng_5: "program which creates learning and work opportunities for all K-12 students in the United States who wish to pursue computer science."
-
+    title: "아마존과 함께 계속 공부해보세요!"
+    congrats: "그 도전적인 코드의 시간을 정복한 것을 축하합니다!"
+    educate_1: "이제 학생과 교사 모두를 위한 아마존의 흥미진진한 무료 프로그램인 AWS Educate를 통해 코딩과 클라우드 컴퓨팅에 대해 배워봅시다. AWS Educate를 사용하면 클라우드의 기본과 게임, 가상현실, 알렉사 같은 최첨단 기술에 대해 배울 수 있어 멋진 배지를 얻을 수 있습니다."
+    educate_2: "자세한 내용 및 등록하기"
+    future_eng_1: "당신은 또한 알렉사를 위해 당신 자신의 학교 사실 기술을 개발하려고 노력할 수 있습니다."
+    future_eng_2: "여기"
+    future_eng_3: "(장치는 필요 없습니다). 이 알렉사 활동은 당신에게"
+    future_eng_4: "아마존의 미래 엔지니어"
+    future_eng_5: "컴퓨터 과학을 추구하는 미국의 모든 K-12 학생들을 위한 학습과 취업 기회를 창출하는 프로그램이다."
 #  play_game_dev_level:
 #    created_by: "Created by {{name}}"
 #    created_during_hoc: "Created during Hour of Code"
